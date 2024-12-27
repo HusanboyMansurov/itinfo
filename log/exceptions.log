@@ -1,0 +1,205 @@
+2024-12-23T11:20:16.200Z error: uncaughtException: Cannot read properties of undefined (reading 'handle')
+TypeError: Cannot read properties of undefined (reading 'handle')
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/services/logger.service.js:20:11)
+    at Module._compile (node:internal/modules/cjs/loader:1504:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/helpers/error_handler.js:1:16)
+2024-12-23T11:20:17.795Z error: uncaughtException: Cannot read properties of undefined (reading 'handle')
+TypeError: Cannot read properties of undefined (reading 'handle')
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/services/logger.service.js:20:13)
+    at Module._compile (node:internal/modules/cjs/loader:1504:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/helpers/error_handler.js:1:16)
+2024-12-23T11:21:28.653Z error: uncaughtException: unCaughtException error
+Error: unCaughtException error
+    at Timeout._onTimeout (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:85:21)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7)
+2024-12-24T10:52:43.809Z error: uncaughtException: Unexpected token '}'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:96
+    res.status(200).send({ message: "Tizimga xush kelibsiz", accessToken: });
+                                                                          ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)
+2024-12-24T10:52:47.494Z error: uncaughtException: Unexpected token '}'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:96
+    res.status(200).send({ message: "Tizimga xush kelibsiz", accessToken:tokens. });
+                                                                                 ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)
+2024-12-24T10:53:04.704Z error: uncaughtException: Unexpected identifier 'accessToken'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:101
+        accessToken: tokens.accessToken,
+        ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)
+2024-12-24T10:53:06.773Z error: uncaughtException: Unexpected identifier 'accessToken'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:101
+        accessToken: tokens.accessToken,
+        ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)
+2024-12-24T10:53:08.137Z error: uncaughtException: Unexpected identifier 'accessToken'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:101
+        accessToken: tokens.accessToken,
+        ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)
+2024-12-24T10:53:09.467Z error: uncaughtException: Unexpected token ':'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:101
+        accessToken: tokens.accessToken,
+                   ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)
+2024-12-24T10:53:20.345Z error: uncaughtException: Unexpected identifier 'accessToken'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:101
+        accessToken: tokens.accessToken,
+        ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)
+2024-12-24T10:53:22.745Z error: uncaughtException: Unexpected token ':'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:101
+        accessToken: tokens.accessToken,
+                   ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)
+2024-12-24T10:53:25.110Z error: uncaughtException: Unexpected identifier 'accessToken'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:101
+        accessToken: tokens.accessToken,
+        ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)
+2024-12-24T10:53:28.726Z error: uncaughtException: Unexpected identifier 'accessToken'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:101
+        accessToken: tokens.accessToken,
+        ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)
+2024-12-24T10:53:30.020Z error: uncaughtException: Unexpected identifier 'accessToken'
+/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:101
+        accessToken: tokens.accessToken,
+        ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1427:18)
+    at Module._compile (node:internal/modules/cjs/loader:1449:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1588:10)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+    at Object.<anonymous> (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/routes/author.routes.js:12:5)

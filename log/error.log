@@ -1,0 +1,45 @@
+2024-12-23T11:12:12.856Z [31merror[39m: Error Ma'lumotlar
+2024-12-23T11:13:02.374Z error: Error Ma'lumotlar
+2024-12-23T11:14:23.220Z error: Error Ma'lumotlar
+2024-12-23T11:14:23.713Z error: Error Ma'lumotlar
+2024-12-23T11:14:24.400Z error: Error Ma'lumotlar
+2024-12-23T11:15:00.895Z error: Error Ma'lumotlar
+2024-12-23T11:15:03.683Z error: Error Ma'lumotlar
+2024-12-23T11:15:09.138Z error: Error Ma'lumotlar
+2024-12-23T11:15:10.459Z error: Error Ma'lumotlar
+2024-12-23T11:16:29.358Z error: Error Ma'lumotlar
+2024-12-23T11:16:30.285Z error: Error Ma'lumotlar
+2024-12-23T11:16:33.414Z error: Error Ma'lumotlar
+2024-12-23T11:16:34.399Z error: Error Ma'lumotlar
+2024-12-23T11:16:39.455Z error: Error Ma'lumotlar
+2024-12-23T11:16:42.194Z error: Error Ma'lumotlar
+2024-12-23T11:16:44.206Z error: Error Ma'lumotlar
+2024-12-23T11:16:47.000Z error: Expected ',' or '}' after property value in JSON at position 36 (line 3 column 5)
+2024-12-23T11:18:22.486Z error: Error Ma'lumotlar
+2024-12-23T11:18:34.248Z error: Error Ma'lumotlar
+2024-12-23T11:19:44.543Z error: Error Ma'lumotlar
+2024-12-23T11:19:46.359Z error: Error Ma'lumotlar
+2024-12-23T11:19:52.494Z error: Error Ma'lumotlar
+2024-12-23T11:19:54.365Z error: Error Ma'lumotlar
+2024-12-23T11:20:14.233Z error: Error Ma'lumotlar
+2024-12-23T11:20:19.154Z error: Error Ma'lumotlar
+2024-12-23T11:20:24.155Z error: Error Ma'lumotlar
+2024-12-23T11:21:19.038Z error: Error Ma'lumotlar
+2024-12-23T11:21:27.655Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at /Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:93:14
+    at new Promise (<anonymous>)
+    at loginAuthor (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:92:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-23T11:31:45.453Z error: Error Ma'lumotlar
+2024-12-23T11:33:09.960Z error: Error Ma'lumotlar
+2024-12-23T11:36:16.434Z error: Error Ma'lumotlar
+2024-12-23T11:36:35.829Z error: Error Ma'lumotlar
+2024-12-23T11:43:40.608Z error: Error Ma'lumotlar
+2024-12-23T11:43:59.808Z error: Error Ma'lumotlar
+2024-12-23T11:44:29.610Z error: Error Ma'lumotlar
+2024-12-23T11:47:40.836Z error: Error Ma'lumotlar
+2024-12-23T11:47:44.495Z error: Error Ma'lumotlar
+2024-12-23T11:47:52.731Z error: Expected ',' or '}' after property value in JSON at position 36 (line 3 column 5)
+2024-12-24T08:53:48.980Z error: Error Ma'lumotlar
+2024-12-24T08:54:12.497Z error: Error Ma'lumotlar

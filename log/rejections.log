@@ -1,0 +1,6 @@
+2024-12-23T11:21:27.655Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at /Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:93:14
+    at new Promise (<anonymous>)
+    at loginAuthor (/Users/goit/najot/fullstack/FULL15/nodejs/ITINFO/controllers/author.controller.js:92:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
